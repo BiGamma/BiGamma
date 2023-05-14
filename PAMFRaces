@@ -1,0 +1,83 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "PAMFRace",
+				"abbreviation": "PAMF",
+				"full": "PAMF",
+				"authors": [
+					"BiGamma"
+				],
+				"version": "1.0.0",
+				"url": "https://github.com/BiGamma/PAMFRaces",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 0,
+		"dateLastModified": 0,
+		"_dateLastModifiedHash": "0803d8fd66"
+	},
+	"race": [
+		{
+			"name": "Folk",
+			"source": "PAMF Races",
+			"ability": [
+				{
+					"cha": 1,
+					"dex": 1,
+					"wis": 1
+				},
+				{
+					"cha": 1,
+					"dex": 1,
+					"wis": 1
+				},
+				
+					}
+				}
+			],
+			"size": [
+				"M"
+			],
+			"speed": 30,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Age",
+					"entries": [
+						"Folk typically live up to 80 to 90 years but it is not unheard of for humans to live beyond this range. Through magical influence, as with any race, they can extend their lifespans or otherwise slow their aging proce"
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						" Folk range in height greatly. From well over six feet tall to barely under five feet. Regardless, all humans are size medium."
+					]
+				},
+				{
+					"name": "Determination",
+					"entries": [
+						"Humans can fail four death saving throws before dying instead of three. Also, when a human takes massive damage that would kill them instantly, they instead roll a Constitution save DC 8+the attack modifier of the attack that would kill them or DC 8+half of the spell/ability’s save DC. If they succeed, they are not killed outright but rather fall to 0 HP and start making death saves.
+
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"Gifted with the ability to talk shit even beyond death, you can speak, read, and write Common."
+					],
+					"type": "entries"
+				}
+			],
+			"fluff": {
+				"entries": [
+					"Improvise, Adapt, Overcome"
+				]
+			},
+			
+			]
+		}
+	]
+}
